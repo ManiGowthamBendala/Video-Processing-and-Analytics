@@ -1,0 +1,1 @@
+Ffmpeg -i 1.mp4 -vf scale=7680*4320:flags=lanczos Sample_output_cmd_7680.mp4
